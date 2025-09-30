@@ -3,7 +3,7 @@
 **`Desenvolvedor Fullstack`**
 
 
-Meu nome é Kevyn Banks, tenho 20 anos, conclui recentemente meu curso técnico em Desenvolvimento de Sistemas pela ETEC Lauro Gomes, atualmente estou no terceiro semestre de Análise e Desenvolvimento de Sistemas na UMESP. Sou apaixonado por tecnologia desde pequeno, no momento busco uma primeira oportunidade para evoluir profissionalmente.
+Meu nome é Kevyn Banks, tenho 20 anos, conclui recentemente meu curso técnico em Desenvolvimento de Sistemas pela ETEC Lauro Gomes, atualmente estou no terceiro semestre de Análise e Desenvolvimento de Sistemas na UMESP. Sou apaixonado por tecnologia desde pequeno, atualmente venho trabalhando como Fullstack, sempre buscando aprimorar meus conhecimentos.
 
 ---
 
